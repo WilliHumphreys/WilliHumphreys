@@ -23,7 +23,7 @@ Sou um desenvolvedor Full Stack com experiência em várias tecnologias de front
 
 ## 🛠️ Em que estou trabalhando atualmente?
 
-## Artelo - Ecommerce de Chinelos Personalizados 🌟
+# Artelo - Ecommerce de Chinelos Personalizados 🌟
 
 **Artelo** é um ecommerce especializado em chinelos personalizados. Com uma interface única e intuitiva, os usuários podem customizar completamente seus chinelos, escolhendo cores, estampas, textos e imagens. A plataforma oferece pré-visualização em tempo real, garantindo que o produto final seja exatamente como imaginado. Após a personalização, é fácil adicionar ao carrinho e finalizar a compra, proporcionando uma experiência de compra rápida e satisfatória.
 
