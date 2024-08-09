@@ -4,7 +4,7 @@ Sou um desenvolvedor Full Stack com experiência em várias tecnologias de front
 
 <div>
   <a href="https://beacons.ai/WilliHumphreys">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=WilliHumphreys&show_icons=true&theme=transparent&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=WilliHumphreys&show_icons=true&theme=shadow_blue&include_all_commits=true&count_private=true"/>
 </div>
 
 ## 🚀 Tecnologias e Ferramentas
