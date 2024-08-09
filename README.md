@@ -37,12 +37,4 @@ Sou um desenvolvedor Full Stack com experiência em várias tecnologias de front
 
 - Atualmente, estou aprimorando minhas habilidades em React.js, Node.js e MongoDB.
 
-## 📫 Como me encontrar?
-
-<a href="https://www.linkedin.com/in/willi-humphreys-78a359294/">
-  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)]([https://www.linkedin.com/in/seu-perfil]
-</a>
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)]([https://www.instagram.com/seu-perfil](https://www.instagram.com/willi_humphreys?utm_source=ig_web_button_share_sheet&igsh=ZDNlZDc0MzIxNw==))
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:willighn469@gmail.com)
-
 Obrigado por visitar meu perfil! Fique à vontade para explorar meus projetos e entrar em contato se tiver alguma pergunta ou sugestão.
