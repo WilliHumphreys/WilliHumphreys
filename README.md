@@ -1,9 +1,5 @@
 
-<div align="center">
-    <a href="https://WilliHumphreys.com/#gh-dark-mode-only">
-        <img src="https://user-images.githubusercontent.com/81938708/233782045-a96c0b5e-74a9-42d8-8f24-a21cd7749d8c.gif" alt="Github Introduction" />
-    </a>
-</div>
+
 
 ![3D Contribution Calendar](./profile-3d-contrib/profile-night-view.svg)
 
