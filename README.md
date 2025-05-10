@@ -37,6 +37,10 @@ Estou comprometido em aprimorar minhas habilidades técnicas e contribuir com pr
 
 ---
 
+<div align="center">
+    <img src="./images/loading.gif" alt="Github Introduction" />
+</div>
+
 Repositórios em destaque logo abaixo mostram um pouco da minha trajetória de aprendizado e atuação prática.  
 Para mais informações técnicas, acesse qualquer um dos projetos listados ou entre em contato via [meu LinkedIn](https://www.linkedin.com/in/willi-humphreys?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BeuiFnjBLQvyWersNnIa8%2BQ%3D%3D).
 
